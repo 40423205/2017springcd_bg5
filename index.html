@@ -44,7 +44,7 @@
 ### 虎科大機械設計工程系
 
 <small>
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [2017springcd_bg5](https://40423236.github.io/2017springcd_bg5/blog/)
 </small>
 
 [協同產品設計實習課程網誌](blog/index.html)
@@ -75,47 +75,59 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
+#W2 筆記
     </script>
 </section>
 
 
 
 						
+<section data-markdown>
+    <script type="text/template">
+<p align="left">
+一. https://ethercalc.org/4lirnzbeh0fl 寫各組座位表</p>
+
+<p align="left">
+二. 說明分組座位程式碼</p>
+
+<p align="left">
+三.在solvespace組立後觀察運動方式</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##利用solvespace畫出四連桿觀察運動方式
+
+<iframe src="https://player.vimeo.com/video/211043203" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/211043203">觀察四連桿運動方式</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##四連桿軌跡圖
+
+<iframe src="https://player.vimeo.com/video/209041244" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/209041244">四連桿軌跡圖</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+    </script>
+</section>
+
+
+						
+</section>
+<section>
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+#W3 筆記
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
     </script>
 </section>
 
@@ -124,11 +136,251 @@ make.start()
 						
 <section data-markdown>
     <script type="text/template">
-## 使用 iframe 導入影片
+<p align="left">
+一. 更改start的fossil路徑</p>
 
-### 導入影片 template
+<p align="left">
+二. 繪製solvespace和onshape的多連桿機構</p>
 
-<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p align="left">
+三. 完成看影片打出英文稿</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##多連桿solvespace 組立
+
+<iframe src="https://player.vimeo.com/video/208423680" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/208423680">Fourbar(solve space)</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##多連桿onshape  組立
+
+<iframe src="https://player.vimeo.com/video/208996140" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/208996140">Fourbar(Onshape)</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##看影片打英文稿
+
+<iframe src="https://player.vimeo.com/video/207229473" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#W4 筆記
+
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<p align="left">
+一. 建立協同主機 2017springcd_bg5 : <a href="https://mde2a2.kmol.info/cdbg5">https://mde2a2.kmol.info/cdbg5 </a> </p>
+
+<p align="left">
+二. 繪製單連桿並轉入v-rep</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##Fossil SCM倉儲
+
+每組要在https://mde2a2.kmol.info 主機上建倉儲:https://mde2a2.kmol.info/cdbg5
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##單連桿solvespace轉入v-rep
+
+<iframe src="https://player.vimeo.com/video/211058729" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/211058729">單連桿機構轉入v-rep(solvespace)</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##單連桿onshape轉入v-rep
+
+<iframe src="https://player.vimeo.com/video/211076919" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/211076919">單連桿機構轉入v-rep(onshape)</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#W5 筆記
+
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<p align="left">
+一. 繪製單連桿並轉入v-rep加馬達</p>
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##單連桿轉入v-rep加馬達
+
+<iframe src="https://player.vimeo.com/video/210535267" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/210535267">solvespace匯入v-rep加馬達</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#W6 筆記
+
+
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<p align="left">
+一. 多連桿運動模擬在v-rep </p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##多連桿運動模擬在v-rep
+
+<iframe src="https://player.vimeo.com/video/211155142" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/211155142">四連桿轉入v-rep</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#W7 筆記
+
+
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<p align="left">
+一. 組立八連桿機構並轉入v-rep</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##八連桿機構組立(solvespace)
+
+<iframe src="https://player.vimeo.com/video/213023653" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/213023653">组立八連桿機構</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##八連桿機構轉入v-rep
+
+<iframe src="https://player.vimeo.com/video/213030727" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/213030727">八連桿機構轉入v-rep加馬達</a> from <a href="https://vimeo.com/user61434176">40423210</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#W8 筆記
+
+
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<p align="left">
+1. 小組互評: https://pygroup-ag100.rhcloud.com </p>
+
+<p align="left">
+2. 個人自評: http://mde1a2.kmol.info:8000/k96tgzh1ofbl </p>
     </script>
 </section>
 

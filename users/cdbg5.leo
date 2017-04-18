@@ -36,18 +36,99 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170419011226.1"><vh>20170301 w2</vh>
+<v t="leo.20170419011226.2" a="E"><vh>w2-1</vh>
+<v t="leo.20170419011226.3"><vh>內容</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
+<v t="leo.20170419011226.4" a="E"><vh>w2-2</vh>
+<v t="leo.20170419011226.5"><vh>內容</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170419011226.6" a="E"><vh>w2-3</vh>
+<v t="leo.20170419011226.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011226.8" a="E"><vh>w2-4</vh>
+<v t="leo.20170419011226.9"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170419011232.1"><vh>20170308 w3</vh>
+<v t="leo.20170419011232.2" a="E"><vh>w3-1</vh>
+<v t="leo.20170419011232.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011232.4" a="E"><vh>w3-2</vh>
+<v t="leo.20170419011232.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011232.6" a="E"><vh>w3-3</vh>
+<v t="leo.20170419011232.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419012407.1" a="E"><vh>w3-4</vh>
+<v t="leo.20170419012407.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011232.8" a="E"><vh>w3-5</vh>
+<v t="leo.20170419011232.9"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170419011255.1"><vh>20170315 w4</vh>
+<v t="leo.20170419011255.2" a="E"><vh>w4-1</vh>
+<v t="leo.20170419011255.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011255.4" a="E"><vh>w4-2</vh>
+<v t="leo.20170419011255.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011255.6"><vh>w4-3</vh>
+<v t="leo.20170419011255.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011255.8"><vh>w4-4</vh>
+<v t="leo.20170419011255.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419013752.1"><vh>w4-5</vh>
+<v t="leo.20170419013752.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170419011256.1"><vh>20170322 w5</vh>
+<v t="leo.20170419011256.2" a="E"><vh>w5-1</vh>
+<v t="leo.20170419011256.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011256.4" a="E"><vh>w5-2</vh>
+<v t="leo.20170419011256.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011256.6" a="E"><vh>w5-3</vh>
+<v t="leo.20170419011256.7"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170419011258.1"><vh>20170329 w6</vh>
+<v t="leo.20170419011258.2" a="E"><vh>w6-1</vh>
+<v t="leo.20170419011258.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011258.4" a="E"><vh>w6-2</vh>
+<v t="leo.20170419011258.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011258.6" a="E"><vh>w6-3</vh>
+<v t="leo.20170419011258.7"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170419011259.1"><vh>20170405 w7</vh>
+<v t="leo.20170419011259.2" a="E"><vh>w7-1</vh>
+<v t="leo.20170419011259.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011259.4"><vh>w7-2</vh>
+<v t="leo.20170419011259.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011259.6"><vh>w7-3</vh>
+<v t="leo.20170419011259.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419014423.1"><vh>w7-4</vh>
+<v t="leo.20170419014423.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170419011303.1"><vh>20170412 w8</vh>
+<v t="leo.20170419011303.2" a="E"><vh>w8-1</vh>
+<v t="leo.20170419011303.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419011303.4" a="E"><vh>w8-2</vh>
+<v t="leo.20170419011303.5"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -91,6 +172,406 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170419011226.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011226.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011226.3">#W2 筆記
+</t>
+<t tx="leo.20170419011226.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011226.5">&lt;p align="left"&gt;
+一. https://ethercalc.org/4lirnzbeh0fl 寫各組座位表&lt;/p&gt;
+
+&lt;p align="left"&gt;
+二. 說明分組座位程式碼&lt;/p&gt;
+
+&lt;p align="left"&gt;
+三.在solvespace組立後觀察運動方式&lt;/p&gt;
+</t>
+<t tx="leo.20170419011226.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011226.7">##利用solvespace畫出四連桿觀察運動方式
+
+&lt;iframe src="https://player.vimeo.com/video/211043203" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211043203"&gt;觀察四連桿運動方式&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170419011226.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011226.9">##四連桿軌跡圖
+
+&lt;iframe src="https://player.vimeo.com/video/209041244" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209041244"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170419011232.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011232.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011232.3">#W3 筆記
+
+</t>
+<t tx="leo.20170419011232.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011232.5">&lt;p align="left"&gt;
+一. 更改start的fossil路徑&lt;/p&gt;
+
+&lt;p align="left"&gt;
+二. 繪製solvespace和onshape的多連桿機構&lt;/p&gt;
+
+&lt;p align="left"&gt;
+三. 完成看影片打出英文稿&lt;/p&gt;
+</t>
+<t tx="leo.20170419011232.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011232.7">##多連桿solvespace 組立
+
+&lt;iframe src="https://player.vimeo.com/video/208423680" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208423680"&gt;Fourbar(solve space)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170419011232.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011232.9">##看影片打英文稿
+
+&lt;iframe src="https://player.vimeo.com/video/207229473" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170419011255.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011255.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011255.3">#W4 筆記
+
+
+</t>
+<t tx="leo.20170419011255.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011255.5">&lt;p align="left"&gt;
+一. 建立協同主機 2017springcd_bg5 : &lt;a href="https://mde2a2.kmol.info/cdbg5"&gt;https://mde2a2.kmol.info/cdbg5 &lt;/a&gt; &lt;/p&gt;
+
+&lt;p align="left"&gt;
+二. 繪製單連桿並轉入v-rep&lt;/p&gt;
+</t>
+<t tx="leo.20170419011255.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011255.7">##Fossil SCM倉儲
+
+每組要在https://mde2a2.kmol.info 主機上建倉儲:https://mde2a2.kmol.info/cdbg5</t>
+<t tx="leo.20170419011255.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011255.9">##單連桿solvespace轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/211058729" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211058729"&gt;單連桿機構轉入v-rep(solvespace)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170419011256.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011256.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011256.3">#W5 筆記
+
+
+</t>
+<t tx="leo.20170419011256.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011256.5">&lt;p align="left"&gt;
+一. 繪製單連桿並轉入v-rep加馬達&lt;/p&gt;
+
+</t>
+<t tx="leo.20170419011256.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011256.7">##單連桿轉入v-rep加馬達
+
+&lt;iframe src="https://player.vimeo.com/video/210535267" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210535267"&gt;solvespace匯入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170419011258.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011258.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011258.3">#W6 筆記
+
+
+
+</t>
+<t tx="leo.20170419011258.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011258.5">&lt;p align="left"&gt;
+一. 多連桿運動模擬在v-rep &lt;/p&gt;
+</t>
+<t tx="leo.20170419011258.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011258.7">##多連桿運動模擬在v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/211155142" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211155142"&gt;四連桿轉入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170419011259.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011259.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011259.3">#W7 筆記
+
+
+
+</t>
+<t tx="leo.20170419011259.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011259.5">&lt;p align="left"&gt;
+一. 組立八連桿機構並轉入v-rep&lt;/p&gt;
+</t>
+<t tx="leo.20170419011259.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011259.7">##八連桿機構組立(solvespace)
+
+&lt;iframe src="https://player.vimeo.com/video/213023653" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213023653"&gt;组立八連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170419011303.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419011303.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011303.3">#W8 筆記
+
+
+
+</t>
+<t tx="leo.20170419011303.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419011303.5">&lt;p align="left"&gt;
+1. 小組互評: https://pygroup-ag100.rhcloud.com &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 個人自評: http://mde1a2.kmol.info:8000/k96tgzh1ofbl &lt;/p&gt;
+</t>
+<t tx="leo.20170419012407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419012407.2">##多連桿onshape  組立
+
+&lt;iframe src="https://player.vimeo.com/video/208996140" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208996140"&gt;Fourbar(Onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170419013752.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419013752.2">##單連桿onshape轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/211076919" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211076919"&gt;單連桿機構轉入v-rep(onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170419014423.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419014423.2">##八連桿機構轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/213030727" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213030727"&gt;八連桿機構轉入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -254,81 +735,6 @@ make.start()</t>
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -421,7 +827,7 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [2017springcd_bg5](https://40423236.github.io/2017springcd_bg5/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
