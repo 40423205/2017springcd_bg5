@@ -109,8 +109,8 @@
 <v t="leo.20170419011258.7"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170419011259.1"><vh>20170405 w7</vh>
-<v t="leo.20170419011259.2" a="E"><vh>w7-1</vh>
+<v t="leo.20170419011259.1" a="E"><vh>20170405 w7</vh>
+<v t="leo.20170419011259.2"><vh>w7-1</vh>
 <v t="leo.20170419011259.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20170419011259.4"><vh>w7-2</vh>
@@ -129,6 +129,35 @@
 </v>
 <v t="leo.20170419011303.4" a="E"><vh>w8-2</vh>
 <v t="leo.20170419011303.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170427212732.1" a="E"><vh>20170419 w9</vh>
+<v t="leo.20170427212732.2" a="E"><vh>w9-1</vh>
+<v t="leo.20170427212732.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212732.4" a="E"><vh>w9-2</vh>
+<v t="leo.20170427212732.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212758.1" a="E"><vh>w9-3</vh>
+<v t="leo.20170427212758.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212759.1" a="E"><vh>w9-4</vh>
+<v t="leo.20170427212759.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212801.1" a="E"><vh>w9-5</vh>
+<v t="leo.20170427212801.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212802.1" a="E"><vh>w9-6</vh>
+<v t="leo.20170427212802.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212805.1" a="E"><vh>w9-7</vh>
+<v t="leo.20170427212805.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427212807.1" a="E"><vh>w9-8</vh>
+<v t="leo.20170427212807.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427213223.1" a="E"><vh>w9-9</vh>
+<v t="leo.20170427213223.2"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -574,6 +603,133 @@
 
 &lt;iframe src="https://player.vimeo.com/video/213030727" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/213030727"&gt;八連桿機構轉入v-rep加馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170427212732.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170427212732.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427212732.3">#W9 筆記
+
+
+
+</t>
+<t tx="leo.20170427212732.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212732.5">##四連桿機構協同 Trace Point 查驗
+
+&lt;p&gt;40423205&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213777378" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213777378"&gt;2017-04-19_軌跡圖(midterm1)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170427212758.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212758.2">&lt;p&gt;40423210&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/214882708" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214882708"&gt;midtern2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61434176"&gt;40423210&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170427212759.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212759.2">&lt;p&gt;40423232&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213777798" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213777798"&gt;midterm3&lt;/a&gt; from &lt;a href="https://vimeo.com/user65331651"&gt;40423232&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170427212801.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212801.2">&lt;p&gt;40423235&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/214882857" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214882857"&gt;midterm04&lt;/a&gt; from &lt;a href="https://vimeo.com/user64041155"&gt;40423235&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170427212802.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212802.2">&lt;p&gt;40423236&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213778990" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213778990"&gt;midterm5&lt;/a&gt; from &lt;a href="https://vimeo.com/user61607351"&gt;NFU-MDE-104B-40423236&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170427212805.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212805.2">&lt;p&gt;40423237&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213787462" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213787462"&gt;2017-04-19_11-08-51&lt;/a&gt; from &lt;a href="https://vimeo.com/user61435408"&gt;40423237&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170427212807.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427212807.2">&lt;p&gt;404232346&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213779215" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213779215"&gt;midterm7&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170427213223.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427213223.2">##Fourbar 行走機構
+&lt;iframe src="https://player.vimeo.com/video/214771995" width="640" height="317" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
